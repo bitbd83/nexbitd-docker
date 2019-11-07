@@ -5,7 +5,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/nexbitio/nexbitd.svg)](https://hub.docker.com/r/nexbitio/nexbitd/)
 
 A Docker configuration with sane defaults for running a fully-validating
-Nexbit  node, based on [Alpine Linux](https://alpinelinux.org/).
+Nexbit  node, based on Ubuntu 18.04
 
 
 
