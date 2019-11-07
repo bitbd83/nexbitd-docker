@@ -51,7 +51,7 @@ on environment variables passed to the container:
 ## Daemonizing
 
 ```bash
-Coming.......
+loading.......
 
 ```
 
